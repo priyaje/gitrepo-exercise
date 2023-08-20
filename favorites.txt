@@ -1,3 +1,9 @@
+Food:
 briyani
 chicken noodles
 sambar sadham
+Movies:
+titanic
+avatar
+home alone
+
